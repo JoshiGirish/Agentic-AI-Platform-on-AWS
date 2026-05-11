@@ -132,11 +132,3 @@ The system is optimized for **scalability, modularity, observability, and securi
 - **Tool Integration:** Securely handled through API Gateway and serverless Lambda/Step Functions.
 
 ---
-
-## Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-org/agentic-ai-aws.git
-cd agentic-ai-aws
