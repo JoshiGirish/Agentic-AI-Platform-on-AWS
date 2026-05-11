@@ -23,6 +23,8 @@ The system is optimized for **scalability, modularity, observability, and securi
 
 ## Architecture Diagram
 
+![Agentic AI AWS Architecture](docs/agentic-ai-platform-on-aws.png)
+
 **Diagram Highlights:**
 
 - Each layer corresponds to a specific function in the enterprise Agentic AI system.
